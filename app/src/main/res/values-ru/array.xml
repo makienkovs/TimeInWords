@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="arrMonth">
+        <item>января</item>
+        <item>февраля</item>
+        <item>марта</item>
+        <item>апреля</item>
+        <item>мая</item>
+        <item>июня</item>
+        <item>июля</item>
+        <item>августа</item>
+        <item>сентября</item>
+        <item>октября</item>
+        <item>ноября</item>
+        <item>декабря</item>
+    </string-array>
+
+    <string-array name="arrDays">
+        <item>нулевое</item>
+        <item>первое</item>
+        <item>второе</item>
+        <item>третье</item>
+        <item>четвертое</item>
+        <item>пятое</item>
+        <item>шестое</item>
+        <item>седьмое</item>
+        <item>восьмое</item>
+        <item>девятое</item>
+        <item>десятое</item>
+        <item>одиннадцатое</item>
+        <item>двенадцатое</item>
+        <item>тринадцатое</item>
+        <item>четырнадцатое</item>
+        <item>пятнадцатое</item>
+        <item>шестнадцатое</item>
+        <item>семнадцатое</item>
+        <item>восемнадцатое</item>
+        <item>девятнадцатое</item>
+        <item>двадцатое</item>
+        <item>двадцать первое</item>
+        <item>двадцать второе</item>
+        <item>двадцать третье</item>
+        <item>двадцать четвертое</item>
+        <item>двадцать пятое</item>
+        <item>двадцать шестое</item>
+        <item>двадцать седьмое</item>
+        <item>двадцать восьмое</item>
+        <item>двадцать девятое</item>
+        <item>тридцатое</item>
+        <item>тридцать первое</item>
+    </string-array>
+
+    <string-array name="arrDaysOfWeek">
+        <item>воскресенье</item>
+        <item>понедельник</item>
+        <item>вторник</item>
+        <item>среда</item>
+        <item>четверг</item>
+        <item>пятница</item>
+        <item>суббота</item>
+
+    </string-array>
+
+    <string-array name="arrMinutes">
+        <item>ровно</item>
+        <item>одна минута</item>
+        <item>две минуты</item>
+        <item>три минуты</item>
+        <item>четыре минуты</item>
+        <item>пять минут</item>
+        <item>шесть минут</item>
+        <item>семь минут</item>
+        <item>восемь минут</item>
+        <item>девять минут</item>
+        <item>десять минут</item>
+        <item>одиннадцать минут</item>
+        <item>двенадцать минут</item>
+        <item>тринадцать минут</item>
+        <item>четырнадцать минут</item>
+        <item>четверть</item>
+        <item>шестнадцать минут</item>
+        <item>семнадцать минут</item>
+        <item>восемнадцать минут</item>
+        <item>девятнадцать минут</item>
+        <item>двадцать минут</item>
+        <item>двадцать одна минута</item>
+        <item>двадцать две минуты</item>
+        <item>двадцать три минуты</item>
+        <item>двадцать четыре минуты</item>
+        <item>двадцать пять минут</item>
+        <item>двадцать шесть минут</item>
+        <item>двадцать семь минут</item>
+        <item>двадцать восемь минут</item>
+        <item>двадцать девять минут</item>
+        <item>половина</item>
+        <item>тридцать одна минута</item>
+        <item>тридцать две минуты</item>
+        <item>тридцать три минуты</item>
+        <item>тридцать четыре минуты</item>
+        <item>без двадцати пяти минут</item>
+        <item>тридцать шесть минут</item>
+        <item>тридцать семь минут</item>
+        <item>тридцать восемь минут</item>
+        <item>тридцать девять минут</item>
+        <item>без двадцати</item>
+        <item>сорок одна минута</item>
+        <item>сорок две минуты</item>
+        <item>сорок три минуты</item>
+        <item>сорок четыре минуты</item>
+        <item>без четверти</item>
+        <item>без четырнадцати</item>
+        <item>без тринадцати</item>
+        <item>без двенадцати</item>
+        <item>без одиннадцати</item>
+        <item>без десяти</item>
+        <item>без девяти</item>
+        <item>без восьми</item>
+        <item>без семи</item>
+        <item>без шести</item>
+        <item>без пяти</item>
+        <item>без четырех</item>
+        <item>без трех</item>
+        <item>без двух</item>
+        <item>без одной минуты</item>
+    </string-array>
+
+    <string-array name="arrHours1">
+        <item>первого ночи</item>
+        <item>второго ночи</item>
+        <item>третьего ночи</item>
+        <item>четвертого утра</item>
+        <item>пятого утра</item>
+        <item>шестого утра</item>
+        <item>седьмого утра</item>
+        <item>восьмого утра</item>
+        <item>девятого утра</item>
+        <item>десятого утра</item>
+        <item>одиннадцатого утра</item>
+        <item>двенадцатого</item>
+        <item>первого</item>
+        <item>второго</item>
+        <item>третьего</item>
+        <item>четвертого</item>
+        <item>пятого</item>
+        <item>шестого</item>
+        <item>седьмого</item>
+        <item>восьмого</item>
+        <item>девятого</item>
+        <item>десятого</item>
+        <item>одинадцатого</item>
+        <item>двенадцатого</item>
+        <item>первого ночи</item>
+    </string-array>
+
+    <string-array name="arrHours2">
+        <item>час ночи</item>
+        <item>два ночи</item>
+        <item>три ночи</item>
+        <item>четыре утра</item>
+        <item>пять утра</item>
+        <item>шесть утра</item>
+        <item>семь утра</item>
+        <item>восемь утра</item>
+        <item>девять утра</item>
+        <item>десять утра</item>
+        <item>одиннадцать утра</item>
+        <item>двенадцать</item>
+        <item>час</item>
+        <item>два</item>
+        <item>три</item>
+        <item>четыре</item>
+        <item>пять</item>
+        <item>шесть</item>
+        <item>семь</item>
+        <item>восемь</item>
+        <item>девять</item>
+        <item>десять</item>
+        <item>одинадцать</item>
+        <item>полночь</item>
+        <item>час ночи</item>
+    </string-array>
+
+    <string-array name="undefined">
+        <item>Сейчас\u0020</item>
+        <item>\u0020года</item>
+        <item>полночь</item>
+        <item>полдень</item>
+        <item>ровно\u0020</item>
+    </string-array>
+
+</resources>

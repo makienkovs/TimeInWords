@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Время в словах</string>
+    <string name="appwidget_text">Сейчас здесь появится время</string>
+    <string name="bgColor">Цвет фона</string>
+    <string name="color">Цвет шрифта</string>
+</resources>

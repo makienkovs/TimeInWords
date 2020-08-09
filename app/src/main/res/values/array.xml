@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="arrMonth">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+
+    <string-array name="arrDays">
+        <item>null</item>
+        <item>the first of</item>
+        <item>the second of</item>
+        <item>the third of</item>
+        <item>the fourth of</item>
+        <item>the fifth of</item>
+        <item>the sixth of</item>
+        <item>the seventh of</item>
+        <item>the eighth of</item>
+        <item>the ninth of</item>
+        <item>the tenth of</item>
+        <item>the eleventh of</item>
+        <item>the twelfth of</item>
+        <item>the thirteenth of</item>
+        <item>the fourteenth of</item>
+        <item>the fifteenth of</item>
+        <item>the sixteenth of</item>
+        <item>the seventeenth of</item>
+        <item>the eighteenth of</item>
+        <item>the nineteenth of</item>
+        <item>the twentieth of</item>
+        <item>the twenty first of</item>
+        <item>the twenty second of</item>
+        <item>the twenty third of</item>
+        <item>the twenty fourth of</item>
+        <item>the twenty fifth of</item>
+        <item>the twenty sixth of</item>
+        <item>the twenty seventh of</item>
+        <item>the twenty eighth of</item>
+        <item>the twenty ninth of</item>
+        <item>the thirtieth of</item>
+        <item>the thirty first of</item>
+    </string-array>
+
+    <string-array name="arrDaysOfWeek">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+
+    </string-array>
+
+    <string-array name="arrMinutes">
+        <item>exactly</item>
+        <item>one minute past</item>
+        <item>two minutes past</item>
+        <item>three minutes past</item>
+        <item>four minutes past</item>
+        <item>five minutes past</item>
+        <item>six minutes past</item>
+        <item>seven minutes past</item>
+        <item>eight minutes past</item>
+        <item>nine minutes past</item>
+        <item>ten minutes past</item>
+        <item>eleven minutes past</item>
+        <item>twelve minutes past</item>
+        <item>thirteen minutes past</item>
+        <item>fourteen minutes past</item>
+        <item>a quarter past</item>
+        <item>sixteen minutes past</item>
+        <item>seventeen minutes past</item>
+        <item>eighteen minutes past</item>
+        <item>nineteen minutes past</item>
+        <item>twenty minutes past</item>
+        <item>twenty one minutes past</item>
+        <item>twenty two minutes past</item>
+        <item>twenty three minutes past</item>
+        <item>twenty four minutes past</item>
+        <item>twenty five minutes past</item>
+        <item>twenty six minutes past</item>
+        <item>twenty seven minutes past</item>
+        <item>twenty eight minutes past</item>
+        <item>twenty nine minutes past</item>
+        <item>a half past</item>
+        <item>thirty one minutes past</item>
+        <item>thirty two minutes past</item>
+        <item>thirty three minutes past</item>
+        <item>thirty four minutes past</item>
+        <item>twenty five minutes to</item>
+        <item>twenty four minutes to</item>
+        <item>twenty three minutes to</item>
+        <item>twenty two minutes to</item>
+        <item>twenty one minutes to</item>
+        <item>twenty minutes to</item>
+        <item>nineteen minutes to</item>
+        <item>eighteen minutes to</item>
+        <item>seventeen minutes to</item>
+        <item>sixteen minutes to</item>
+        <item>a quarter to</item>
+        <item>fourteen minutes to</item>
+        <item>thirteen minutes to</item>
+        <item>twelve minutes to</item>
+        <item>eleven minutes to</item>
+        <item>ten minutes to</item>
+        <item>nine minutes to</item>
+        <item>eight minutes to</item>
+        <item>seven minutes to</item>
+        <item>six minutes to</item>
+        <item>five minutes to</item>
+        <item>four minutes to</item>
+        <item>three minutes to</item>
+        <item>two minutes to</item>
+        <item>one minute to</item>
+    </string-array>
+
+    <string-array name="arrHours1">
+        <item>midnight</item>
+        <item>one AM</item>
+        <item>two AM</item>x`
+        <item>three AM</item>
+        <item>four AM</item>
+        <item>five AM</item>
+        <item>six AM</item>
+        <item>seven AM</item>
+        <item>eight AM</item>
+        <item>nine AM</item>
+        <item>ten AM</item>
+        <item>eleven AM</item>
+        <item>noon</item>
+        <item>one PM</item>
+        <item>two PM</item>
+        <item>three PM</item>
+        <item>four PM</item>
+        <item>five PM</item>
+        <item>six PM</item>
+        <item>seven PM</item>
+        <item>eight PM</item>
+        <item>nine PM</item>
+        <item>ten PM</item>
+        <item>eleven PM</item>
+        <item>midnight</item>
+    </string-array>
+
+    <string-array name="arrHours2">
+        <item>midnight</item>
+        <item>one AM</item>
+        <item>two AM</item>
+        <item>three AM</item>
+        <item>four AM</item>
+        <item>five AM</item>
+        <item>six AM</item>
+        <item>seven AM</item>
+        <item>eight AM</item>
+        <item>nine AM</item>
+        <item>ten AM</item>
+        <item>eleven AM</item>
+        <item>noon</item>
+        <item>one PM</item>
+        <item>two PM</item>
+        <item>three PM</item>
+        <item>four PM</item>
+        <item>five PM</item>
+        <item>six PM</item>
+        <item>seven PM</item>
+        <item>eight PM</item>
+        <item>nine PM</item>
+        <item>ten PM</item>
+        <item>eleven PM</item>
+        <item>midnight</item>
+    </string-array>
+
+    <string-array name="undefined">
+        <item>Now is\u0020</item>
+        <item></item>
+        <item>midnight</item>
+        <item>noon</item>
+        <item>exactly\u0020</item>
+    </string-array>
+
+</resources>
